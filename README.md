@@ -1,1 +1,1 @@
-## [v0.0.2](https://github.com/littleflute/The-Voice/edit/master/README.md) [videosMax](https://www.youtube.com/user/NBCTheVoice/videos?view=0&sort=p&flow=grid) [weixin](https://github.com/littleflute/weixin)
+## [v0.0.3](https://github.com/littleflute/The-Voice/edit/master/README.md) [new](https://www.youtube.com/user/NBCTheVoice/videos) [max](https://www.youtube.com/user/NBCTheVoice/videos?view=0&sort=p&flow=grid) [weixin](https://github.com/littleflute/weixin)
